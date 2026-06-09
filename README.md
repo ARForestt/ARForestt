@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm FantaSy👋
 
-<!--
-**ARForestt/ARForestt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate student interested in **Artificial Intelligence, Data Science, and Machine Learning**.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Undergraduate student focusing on Computer Science and data-driven applications
+- 🤖 Interested in AI, Machine Learning, Recommendation Systems, and NLP
+- 📊 Currently building projects with Python, pandas, scikit-learn, and SQL
+- 🚀 Preparing a project portfolio for research and postgraduate applications
+
+## Technical Skills
+
+**Programming:** Python, SQL  
+**Data Science:** pandas, NumPy, matplotlib, scikit-learn  
+**Database:** PostgreSQL  
+**Tools:** Git, GitHub, Jupyter Notebook, VS Code
+
+## Current Focus
+
+- Building AI/Data Science portfolio projects
+- Improving machine learning and deep learning fundamentals
+- Learning how to write cleaner, reproducible project code
+- Exploring recommendation systems and NLP applications
+
+## Planned Projects
+
+Let me see...
+
+## Contact
+
+- GitHub:[@ARForestt]([https://github.com/你的用户名])
